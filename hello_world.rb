@@ -1,2 +1,1 @@
-hello_world.RUBY_VERSION
-puts "Hello World!"
+puts "Hello World"
